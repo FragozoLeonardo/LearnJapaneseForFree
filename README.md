@@ -19,7 +19,7 @@
 
 ## Grammar:
 
-Note if you don't understand Japanese defitions clearly you may check my educational pack or google (grammar point) + grammar in google.
+Note if you don't understand Japanese defitions clearly you may check google (grammar point) + grammar / 文法 or とは in google.
 
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
 2.  [Imabi](https://imabi.org/) - Colossal and nearly everyday evolving Japanese Grammar In English.
