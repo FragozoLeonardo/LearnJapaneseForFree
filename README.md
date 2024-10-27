@@ -2,7 +2,7 @@
 
 ## General Lists / Guides:
 
-1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Kuri's immersion based learning hub. - [Donkuri Updated Resources](https://github.com/donkuri/japanese-resources) - Check the title.
+1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Kuri's immersion based learning hub. - **[Donkuri Updated Resources](https://github.com/donkuri/japanese-resources)** - Check the title.
 2. [Doth's Resources](https://docs.google.com/document/u/0/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ) - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
 3. [Jazzy's Guide](https://rentry.co/jazzy180) - Same as above, but other person.
 4. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
@@ -27,7 +27,7 @@ Note if you don't understand Japanese defitions clearly you may check my educati
 4.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
 5.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 6.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
-7.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools - There is a scan of it in book form in my "日本語図書館 pack".
+7.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools.
 8.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
 9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
 10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
