@@ -23,7 +23,7 @@
 Note if you don't understand Japanese defitions clearly you may check google (grammar point) + grammar / 文法 or とは in google.
 
 1.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
-2.  [Imabi](https://imabi.org/) - Colossal and nearly everyday evolving Japanese Grammar In English.
+2.  [Imabi](https://imabi.org/) - Colossal and nearly often updated Japanese Grammar In English.
 3.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
 4.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
 5.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
