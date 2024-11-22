@@ -12,11 +12,13 @@
 
 1. [Jitendex](https://jitendex.org/pages/downloads.html) - Improved JMDICT (Vocabulary Dictionary).
 2. [Kanji Homophone (Words) Explanations In English](https://www.bretmayer.com/ijidokun.html). - Self-explanatory.
+3.  [Kotobank](https://kotobank.jp/). - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
 
 ## Kanji:
 
 1. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
 2. [Learn Kanji By Writing](https://kanji.sh/write). - Self-explanatory.
+3. [Kotobank](https://kotobank.jp/). - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
 
 ## Grammar:
 
@@ -29,13 +31,12 @@ Note if you don't understand Japanese defitions clearly you may check google (gr
 5.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 6.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 7.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools.
-8.  [Pothos Blue](https://pothos.blue/setuzokusi.htm)  - Apparently a 接続詞 (conjunction) geek.
-9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
-10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
+8.    [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
+9.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
 
 ## Reading
 
-1. [YomuJP](https://yomujp.com/)  - Not free anymore reading by JLPT levels with audio, but great transition from textbooks (if you use them) to real world Japanese.
+1. [YomuJP](https://yomujp.com/)  - Most of the readings are not free anymore but organized by JLPT levels with audio, but great transition from textbooks (if you use them) to real world Japanese.
 2. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy)  - Tourism in Japan related magazine.
 3. [Natively](https://learnnatively.com/)  - User votation based JLPT aproximation of native content.
 4. [Web-Japan](https://web-japan.org/) Reading and watching material about Japanese culture and life, in various languages (Gov sponsored, so, take with a grain of salt).
