@@ -5,7 +5,7 @@
 1. **[Donkuri](https://donkuri.github.io/learn-japanese/)** - Kuri's immersion based learning hub - **[Donkuri Updated Resources](https://github.com/donkuri/japanese-resources)** - Check the title.
 2. [Doth's Resources](https://docs.google.com/document/u/0/d/1dERLxWqOOmbL0jq9KrPP0IFYTKRt3AlDEqrLtZytfKQ) - Resources used by a person native of a non Kanji language who passed JLPT N1 by the immersion method.
 3. [Jazzy's Guide](https://rentry.co/jazzy180) - Same as above, but other person.
-4. [The Ultimate Additional Japanese Resources List!] - (https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859).
+4. [The Ultimate Additional Japanese Resources List!](https://community.wanikani.com/t/the-ultimate-additional-japanese-resources-list/16859) - List of Resources on Wanikani Forums.
 5. [Kuzuri Resources](https://kuzuri.neocities.org/resources) - Gargantuan but updated a quite long time free resources website.
   
 ## Vocabulary:
@@ -17,7 +17,7 @@
 ## Kanji:
 
 1. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
-2. [Genkoyoshi] (https://github.com/carlosalvesuy/genkoyoshi). Customizable solution create by myself using Ruby for creating printer-friendly 原稿用紙 Japanese Kanji (and Kana) pratice paper.
+2. [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi). Customizable solution create by myself using Ruby for creating printer-friendly 原稿用紙 Japanese Kanji (and Kana) pratice paper.
 3. [Kotobank](https://kotobank.jp/). - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
 
 ## Grammar:
