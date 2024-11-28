@@ -17,7 +17,7 @@
 ## Kanji:
 
 1. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
-2. [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi). Customizable solution create by myself using Ruby for creating printer-friendly 原稿用紙 Japanese Kanji (and Kana) pratice paper.
+2. [GenkiYoshi](https://github.com/FragozoLeonardo/Genki-Yoshi) - Customizable solution create by myself using Ruby for creating printer-friendly 原稿用紙 Japanese Kanji (and Kana) pratice paper.
 3. [Kotobank](https://kotobank.jp/). - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
 
 ## Grammar:
@@ -46,7 +46,7 @@
 
 ## Monolingual researching tips - Mid Level +
 
-If you don't understand Japanese defitions as for noew please skip this for now:
+If you don't understand Japanese defitions as for now please skip this for now:
 
 Grammar point + 文法 or とは in google, 使い分け or 違い also work fine for nuance differences.
 
