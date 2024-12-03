@@ -46,8 +46,8 @@
 
 ## Monolingual researching tips - Mid Level +
 
-If you don't understand Japanese defitions as for now please skip this for now:
+If you don't understand Japanese definitions as for now please skip this for now:
 
 Grammar point + 文法 or とは in google, 使い分け or 違い also work fine for nuance differences.
 
-Example: 「登る/上る/昇る 違い」
+Examples: 「登る/上る/昇る 違い」 or 「べく 文法」
