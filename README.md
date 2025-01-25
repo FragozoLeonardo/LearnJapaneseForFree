@@ -56,8 +56,8 @@
 > [!IMPORTANT]  
 > If you don't understand Japanese definitions with like two or at max three "recursive jumps" as for now please skip this for now:
 
-- **Nuance** Search: [Grammar point] + 文法 or [Word] とは in google, [Multiple Close Expression With] 使い分け or 違い
+**Nuance** Search: [Grammar point] + 文法 or [Word] とは in google, [Multiple Close Expression With] 使い分け or 違い
 
-- **Examples:** 「登る/上る/昇る 違い」 / 「べく 文法」, so goes on.
+**Examples:** 「登る/上る/昇る 違い」 / 「べく 文法」, so goes on.
 
 **がんばって！** 
