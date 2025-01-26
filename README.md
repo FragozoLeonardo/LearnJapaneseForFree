@@ -15,9 +15,9 @@
 1. [Jitendex](https://jitendex.org/pages/downloads.html) - Improved JMDICT (Vocabulary Dictionary).
 2. [Jitenon](https://jitenon.com/) - The best Kanji dictionary - Better than KANJIDICT.
 3. [Kotobank](https://kotobank.jp/) - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
-4. [EijiroOnTheWeb](https://eow.alc.co.jp/) - Japanese - English equivalent of The wwwdict project, can be used on the opposite and has many buzzwords not found on editorial dictionaries.
+4. [EijiroOnTheWeb](https://eow.alc.co.jp/) - Japanese - English equivalent of The wwwdict project, can be used on the opposite and has many buzzwords not found on more traditional editorial dictionaries.
 5. [Kanji Homophone (Words) Explanations In English](https://www.bretmayer.com/ijidokun.html) - Self-explanatory.
-6. [Dicionário de Antônimos e Quase Sinônimos](https://thesaurus.weblio.jp/) - Bom Para Aprender Diferenças de Palavras Parecidas.
+6. [Dicionário de Antônimos e Quase Sinônimos](https://thesaurus.weblio.jp/) - Good for learning similar/opposite words of "alike" words.
 7. [Goo](https://dictionary.goo.ne.jp/) - Kotobank "cousin".
 8. [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Free Online Japanese Pitch Accent Dictionary.
 
@@ -54,9 +54,9 @@
 ## Monolingual researching tips - Mid Level +
 
 > [!IMPORTANT]  
-> If you don't understand Japanese definitions with like two or at max three "recursive jumps" as for now please skip this for now:
+> If you don't understand Japanese definitions with like two or at max three "recursive jumps" as for now please skip this
 
-**Nuance** Search: [Grammar point] + 文法 or [Word] とは in google, [Multiple Close Expression With] 使い分け or 違い
+**Nuance Search:** [Grammar point] + 文法 or [Word] とは in google, [Multiple Close Expression With] 使い分け or 違い
 
 **Examples:** 「登る/上る/昇る 違い」 / 「べく 文法」, so goes on.
 
