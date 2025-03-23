@@ -46,7 +46,7 @@
 
 1. **[PodcastRepublic](https://www.podcastrepublic.net/)** - Change the country to Japan and search keywords about stuff you would enjoy.
 2. [Tofugu Beginners](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/) | [Intermediate](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/) - Podcasts Recomemndations by Tofugu.
-3. [Interactive Table of Pitch Acccents](https://pitch-accent-website.vercel.app/) - Original [here](https://imgur.com/a/D3fotTQ) - built by snoozy at TMW.
+3. [Interactive Table of Pitch Accents](https://pitch-accent-website.vercel.app/) - Original [here](https://imgur.com/a/D3fotTQ) - built by snoozy at TMW.
 
 ## Kanji
 
