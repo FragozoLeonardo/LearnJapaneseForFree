@@ -31,16 +31,16 @@
 5.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
 6.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 7.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
-8.  [Kokugo Bunpo](https://www.kokugobunpou.com/) Japanese grammar as taught In Japanese schools.
+8.  [Kokugo Bunpo](https://www.kokugobunpou.com/) - Japanese grammar as taught In Japanese schools.
 9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
-10.  [Koten Bunpo](https://www.kotenbunpou.com/) Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
+10. [Koten Bunpo](https://www.kotenbunpou.com/) - Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
 
 ## Reading
 
 1. [YomuJP](https://yomujp.com/)  - Most of the readings are not free anymore but organized by JLPT levels with audio, but great transition from textbooks (if you use them) to real world Japanese.
 2. [Matcha](https://matcha-jp.com/) / [Easy Version](https://matcha-jp.com/easy)  - Tourism in Japan related magazine.
 3. [Natively](https://learnnatively.com/)  - User votation based JLPT aproximation of native content.
-4. [Web-Japan](https://web-japan.org/) Reading and watching material about Japanese culture and life, in various languages (Gov sponsored, so, take with a grain of salt).
+4. [Web-Japan](https://web-japan.org/) - Reading and watching material about Japanese culture and life, in various languages (Gov sponsored, so, take with a grain of salt).
 
 ## Listening
 
