@@ -9,6 +9,7 @@
 5. [Kuzuri Resources](https://kuzuri.neocities.org/resources) - Gargantuan but updated a quite long time free resources website.
 6. [TheMoeWay](https://learnjapanese.moe/) - Immersion Based Japanese Learning Community
 7. [Tatsumoto](https://tatsumoto-ren.github.io/blog/index.html) - Same but with a different flavor, less focused on moe and more on actual reading.
+8. [NihongoClick](https://github.com/FragozoLeonardo/NihongoClick) = Japanese text context menu automatic researcher/link creator. - Built by me - as of 03-23-2025 Chrome Only.
   
 ## Dictionaries:
 
@@ -45,6 +46,7 @@
 
 1. **[PodcastRepublic](https://www.podcastrepublic.net/)** - Change the country to Japan and search keywords about stuff you would enjoy.
 2. [Tofugu Beginners](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-beginners/) | [Intermediate](https://www.tofugu.com/japanese/japanese-language-learning-podcasts-for-intermediate-learners/) - Podcasts Recomemndations by Tofugu.
+3. [Interactive Table of Pitch Acccents](https://pitch-accent-website.vercel.app/) - Original [here](https://imgur.com/a/D3fotTQ) - built by snoozy at TMW.
 
 ## Kanji
 
