@@ -25,15 +25,16 @@
 ## Grammar:
 
 1.  [Cure Dolly Script](https://kellenok.github.io/cure-script/) - While I have a lot of pet peeves with her voice or the animation itself, her legacy is far greater than it, RIP.
-2.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
-3.  [Imabi](https://imabi.org/) - Colossal and nearly often updated Japanese Grammar In English.
-4.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
-5.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
-6.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
-7.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
-8.  [Kokugo Bunpo](https://www.kokugobunpou.com/) - Japanese grammar as taught In Japanese schools.
-9.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
-10. [Koten Bunpo](https://www.kotenbunpou.com/) - Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
+2.  [AIUEO Lesson](https://aiueo.cc/pages/en/home.php) - Learn Grammar and Other Useful Stuff With Audio and Frequency Rankings From a Teacher.
+3.  [Tofugu Grammar](https://www.tofugu.com/japanese-grammar/)  - Basic grammar In English.
+4.  [Imabi](https://imabi.org/) - Colossal and nearly often updated Japanese Grammar In English.
+5.  [Edewakaru Grammar](https://www.edewakaru.com/archives/cat_179055.html) - Grammar explanations with drawings (Chat GPT translations may seem reasonable).
+6.  [Mainichi-nonbiri](https://mainichi-nonbiri.com/japanese-grammar/) - Trilingual JP-CH-EN Grammar, useful for counterchecks and non JLPT grammar.
+7.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
+8.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
+9.  [Kokugo Bunpo](https://www.kokugobunpou.com/) - Japanese grammar as taught In Japanese schools.
+10.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
+11. [Koten Bunpo](https://www.kotenbunpou.com/) - Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
 
 ## Reading
 
