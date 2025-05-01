@@ -18,7 +18,7 @@
 3. [Kotobank](https://kotobank.jp/) - Great monolingual and English as well non english bilingual dictionaries. Disable JS on your browser to bypass the paywall.
 4. [EijiroOnTheWeb](https://eow.alc.co.jp/) - Japanese - English equivalent of The wwwdict project, can be used on the opposite and has many buzzwords not found on more traditional editorial dictionaries.
 5. [Kanji Homophone (Words) Explanations In English](https://www.bretmayer.com/ijidokun.html) - Self-explanatory.
-6. [Dicionário de Antônimos e Quase Sinônimos](https://thesaurus.weblio.jp/) - Good for learning similar/opposite words of "alike" words.
+6. [Weblio Thesaurus](https://thesaurus.weblio.jp/) - Good for learning quasi synonym or antonyms, as well discovering nuances.
 7. [Goo](https://dictionary.goo.ne.jp/) - Kotobank "cousin".
 8. [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - Free Online Japanese Pitch Accent Dictionary.
 
@@ -33,7 +33,7 @@
 7.  [Japanese With Anime](https://www.japanesewithanime.com/) -  Casual non textbook grammar.
 8.  [Maggie Sensei](https://maggiesensei.com/) - Also casual non textbook grammar.
 9.  [Kokugo Bunpo](https://www.kokugobunpou.com/) - Japanese grammar as taught In Japanese schools.
-10.  [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
+10. [Niwa Saburoo's Refference](https://niwasaburoo.amebaownd.com/posts/5998087) - Somewhat difficult to understand, but useful grammar outline in Japanese, has linguistics lingo.
 11. [Koten Bunpo](https://www.kotenbunpou.com/) - Same as Kokugo Bunpo, but for Kobun (Classical Japanese).
 
 ## Reading
